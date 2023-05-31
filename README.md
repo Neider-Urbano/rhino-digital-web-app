@@ -1,2 +1,2 @@
 # rhino-digital-web-app
-Repositorio para el código del proyecto web rhino digital
+Repositorio con el código del frontend del proyecto web rhino digital
